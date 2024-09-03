@@ -1,0 +1,17 @@
+.select2-container--default .select2-selection--single {
+    padding: 0.25rem 0.5rem 0.25rem 0.5rem;
+    background-color: white;
+    vertical-align: middle;
+    border-radius: var(--bs-border-radius);
+    border: 1px solid #f8f7fc !important;
+    min-height: 39px;
+}
+
+.select2-container--default
+    .select2-selection--single
+    .select2-selection__arrow {
+    height: 39px !important;
+}
+.select2-search--dropdown .select2-search__field {
+    outline-color: transparent;
+}

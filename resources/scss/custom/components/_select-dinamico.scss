@@ -1,0 +1,17 @@
+.choices .choices__list > .choices__list > .choices__item--selectable {
+    padding-right: 0px !important;
+}
+.choices .choices__list > .choices__list > .choices__item--selectable::after {
+    display: none !important;
+}
+
+.choices .choices__list > .choices__item {
+    white-space: nowrap !important;
+    overflow: hidden !important;
+    text-overflow: ellipsis !important;
+}
+.input-group .choices {
+    margin-bottom: 0px !important;
+
+    width: calc(100% - 119.42px);
+}

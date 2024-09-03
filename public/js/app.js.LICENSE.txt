@@ -1,0 +1,6 @@
+/*!
+ * This file is part of the "malle" library
+ * Copyright 2021, 2022 Nicolas CARPi @ Deltablot
+ * License MIT
+ * https://github.com/deltablot/malle
+ */
